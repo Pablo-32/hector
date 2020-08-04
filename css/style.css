@@ -357,7 +357,7 @@ form a{
     }
     li{
         display: block;
-        width: 90%;
+        width: 75%;
         border-bottom:1px solid rgba(255,255,255, .3);
         float: none;
     }
